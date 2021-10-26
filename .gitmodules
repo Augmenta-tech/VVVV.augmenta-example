@@ -1,0 +1,3 @@
+[submodule "VVVV.Augmenta"]
+	path = VVVV.Augmenta
+	url = https://github.com/Augmenta-tech/VVVV.Augmenta.git
